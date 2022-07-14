@@ -12,6 +12,7 @@
 # CONTACT
 
 E-mail (I'm very inactive): joaovsanmiz@gmail.com
+
 Discord: pyjonhact#6177
 
 <p align="center"><img src="images/neon1.png" width="300"></p>
