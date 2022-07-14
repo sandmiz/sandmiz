@@ -2,4 +2,4 @@
 <summary align="center">
 <h1>Hello, welcome to my Github profile!</h1>
 </summary>
-<h2>I'm a guy that develops a variety of things</h2>
+<h2 align="center">I'm a guy that develops a variety of things</h2>
